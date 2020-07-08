@@ -1,0 +1,7 @@
+ul.list {
+	list-style-type: none;
+}
+.removido > .checkbox > label {
+	text-decoration: line-through;
+	color: #cccccc;
+}
